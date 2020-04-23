@@ -14,7 +14,7 @@
     ]
   },
   "dependencies": {
-    "@sentry/browser": "^5.15.4",
+    "@sentry/browser": "^5.15.5",
     "core-js": "^3.6.5",
     "dayjs": "^1.8.25",
     "downloadjs": "^1.4.7",
